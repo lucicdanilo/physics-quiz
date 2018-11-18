@@ -1,0 +1,162 @@
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,code,small,strike,strong,sub,sup,b,u,i{
+    
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    border:0px;
+    font-size:100%;
+    font:inherit;
+    vertical-align:baseline;
+    margin:0;padding:0;
+
+
+} 
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{
+
+    display:block;
+
+
+} 
+
+body{
+
+    background-color:  	#535C83;
+    line-height:1; 
+    font-family: 'Raleway', sans-serif;
+    
+} 
+        
+ol,ul{
+
+    list-style:none;
+    
+}
+
+strong{
+
+    font-weight:700;
+
+}
+
+#question{
+
+    color: whitesmoke;
+    font-size: 35px;
+
+}
+
+#frame{
+
+    max-width:1000px;
+    border-radius: 22px;
+    width:1000;
+    border:3px solid #ccc;
+    background: 	#252F4A;
+    padding:10px;
+    margin-left:    20%;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+
+
+}
+
+h1{
+    
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align:left;
+    border-bottom:1px solid #999;
+    padding:0;width:auto
+
+}
+
+
+
+h2{
+
+    font:italic bold 1.3em/1.2em 'Raleway' sans-serif;
+    padding:0;
+    text-align:center;
+    margin:20px 0;
+
+}
+
+
+
+p.pager{
+
+    margin:5px 0 5px;
+    font:bold 1em/1em 'Raleway' , sans-serif;
+    color:#999;
+    
+}
+
+
+#choice-block{
+
+    background-color: #252F4A;
+    display:block;
+    list-style:none;
+    margin:0;
+    padding:0;
+
+}
+
+
+#submitbutton{
+
+    background:  #3084C0;
+	border: none;
+	border-radius: 5px;
+	padding: 10px;
+    color: white;
+    font-size: 16px;    
+	transition-duration: .5s;
+    margin-top: 15px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+
+
+#submitbutton:hover {
+
+	background: rgb(57, 173, 255);	
+	color: #535C83;
+	cursor: pointer;
+
+}
+
+
+.choice-box{
+
+    background: #535C83;
+    display:block;
+    text-align:center;
+    margin:9px auto;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding:10px 0;
+    border:1px solid white;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+.choice-box:hover{
+
+    background: #535C83;
+    color: white;
+    cursor: pointer;
+   
+}
+
