@@ -1,5 +1,5 @@
 # physics quiz
-My first Javascript project for portfolio.
+My Javascript project for portfolio.
 
 
 Hi, 
