@@ -1,7 +1,5 @@
-# physics quiz
-My Javascript project for portfolio.
+# Physics Quiz 
+I build this quiz for fun and to improve my coding skills. Also you can test your physics knowledge. [This is live version.](https://bp.etf.ac.me/users/danilol/physics-quiz-master/)  
 
 
-Hi, 
-
-This is my first jQuery project. 
+Used technologies: HTML / CSS / JavaScript / jQuery
